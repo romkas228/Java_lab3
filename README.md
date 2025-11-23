@@ -1,1 +1,3 @@
-# Java_lab3
+# Java_lab3 
+# Variant 6
+# Danyliuk Roman IS-31
